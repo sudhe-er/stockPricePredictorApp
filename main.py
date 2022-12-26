@@ -18,16 +18,6 @@ fd = pd.read_csv("AAPL.csv")
 st.balloons()
 st.write(df.describe())
 
-def get_ticker(name):
-    comp = fn.Ticker(name)
-    return comp
-
-
-
-st.write(""" ### About Apple  """)
-c1 = get_ticker("AAPL")
-st.write(c1.info['longBusinessSummary'])
-st.balloons()
 #Chart
 
 st.subheader("Open Price  Graph")

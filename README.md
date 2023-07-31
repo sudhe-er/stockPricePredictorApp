@@ -13,5 +13,6 @@ Accurate Stock price prediction can have significant implications for various st
 
 Through this project, insights and patterns in the Stock market can be uncovered, allowing for a better understanding of the factors influencing Stock prices and facilitating more informed decision-making in the Stock Market industry.
 ***
-* ![Live Link](https://sudhe-er-stockpricepredictorapp-main-ilgiw8.streamlit.app/)
+* Live Link:
+* https://sudhe-er-stockpricepredictorapp-main-ilgiw8.streamlit.app/
   

@@ -12,3 +12,7 @@ The project will involve several steps, including data preprocessing, explorator
 Accurate Stock price prediction can have significant implications for various stakeholders, including newbies who are setting theri minds to invest in what companys, sellers, real estate agents, and investors. With an effective predictive model, prospective buyers can make informed decisions about property investments, sellers can set competitive prices, and agents can provide better guidance to their clients. Additionally, investors can use the predicted prices to identify profitable opportunities in the stock market.
 
 Through this project, insights and patterns in the Stock market can be uncovered, allowing for a better understanding of the factors influencing Stock prices and facilitating more informed decision-making in the Stock Market industry.
+***
+* Live Link:
+  ![](https://sudhe-er-stockpricepredictorapp-main-ilgiw8.streamlit.app/)
+  

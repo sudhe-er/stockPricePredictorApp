@@ -3,9 +3,6 @@ Here, we have developed a Stock Price Predction web app using streamlit and mach
 In this, We have Predicted the stock prices of Apple(AAPL) company for 60 days using LSTM.
 The web App was made using the Stremlit library of Python-a web framework.
 https://github.com/sudhe-er/stockPricePredictorApp/wiki
-
-![image](https://user-images.githubusercontent.com/113851940/208229662-9b1d8259-7302-412f-bc0d-c07297d156e3.png)
-![image](https://user-images.githubusercontent.com/113851940/208229717-b9d34c54-d15d-4c5b-99e9-ef5cc78c60d0.png)
-![image](https://user-images.githubusercontent.com/113851940/208229741-a971023c-ba8a-49b1-a691-859acd4669ed.png)
-![image](https://user-images.githubusercontent.com/113851940/208229742-fcc231da-ef9e-4b12-a012-bbc65157eb51.png)
-![image](https://user-images.githubusercontent.com/113851940/208229746-04328391-fcad-440a-bc90-672ee5185210.png)
+* STOCK PRICE PREDICTION
+***
+[https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.nifty50stocks.com%2Fwp-content%2Fuploads%2F2023%2F01%2FStock-Market-Prediction-next-week-11.jpg&tbnid=Cs0kevvf1NYAvM&vet=10CHoQMyiCAmoXChMIqLvpyo25gAMVAAAAAB0AAAAAEAQ..i&imgrefurl=https%3A%2F%2Fwww.nifty50stocks.com%2Fstock-market-prediction-10-11-12-13-14-july-2023%2F&docid=B8p7XXcL35jVBM&w=635&h=350&q=stock%20price%20prediction%20pics&ved=0CHoQMyiCAmoXChMIqLvpyo25gAMVAAAAAB0AAAAAEAQ]
